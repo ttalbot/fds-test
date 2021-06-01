@@ -1,0 +1,10 @@
+{
+  "name": "@finastra/fds-button",
+  "version": "1.0.0",
+  "author": "Talbot, Thomas <thomas.talbot@finastra.com>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "@material/mwc-button": "^0.21.0"
+  }
+}
