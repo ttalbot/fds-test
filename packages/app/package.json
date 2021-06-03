@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@finastra/theme": "1.0.0",
+    "@finastra/typography": "1.0.0",
     "@material/button": "^11.0.0",
     "@material/mwc-button": "^0.21.0",
     "css-loader": "^5.2.6",

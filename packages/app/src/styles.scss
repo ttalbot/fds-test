@@ -1,8 +1,5 @@
 @use "@finastra/theme";
+@use "@finastra/typography";
 @use "@material/button/styles";
-@use "@material/button";
 
 @include theme.core-styles;
-.mdc-button {
-  @include button.shape-radius(20px);
-}
