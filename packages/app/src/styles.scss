@@ -3,3 +3,7 @@
 @use "@material/button/styles";
 
 @include theme.core-styles;
+
+.dark {
+    @include theme.dark-theme;
+}
