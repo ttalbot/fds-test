@@ -1,1 +1,20 @@
-@use "@material/typography/mdc-typography";
+@use 'sass:map';
+@use './styles';
+@use '@material/feature-targeting/feature-targeting';
+@use "@material/typography" with (
+  $styles: styles.$fds-styles
+);
+
+$styles-display1: () !default;
+$styles-button: () !default;
+
+$unused: typography.set-styles_(
+  typography.$base,
+  styles.$fds-styles,
+  (
+    display1: $styles-display1,
+    button: $styles-button,
+  )
+);
+
+@include typography.core-styles;
