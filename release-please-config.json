@@ -3,7 +3,7 @@
   "packages": {
     "packages/fds-button": {
       "release-type": "node",
-      "draft": false,
+      "draft": false
     }
   }
 }
