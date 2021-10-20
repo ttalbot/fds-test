@@ -1,6 +1,9 @@
 {
   "bootstrap-sha": "162303a9c9a8704e2ae7b5b376afb948260c018f",
   "packages": {
-    "packages/fds-button": {}
+    "packages/fds-button": {
+      "release-type": "node",
+      "draft": false,
+    }
   }
 }
