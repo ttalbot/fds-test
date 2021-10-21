@@ -1,9 +1,15 @@
 {
   "name": "@test/fds-button",
   "version": "1.0.0",
+  "description": "button component",
   "author": "Talbot, Thomas <thomas.talbot@finastra.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttalbot/fds-test.git",
+    "directory": "packages/fds-button"
+  },
   "peerDependencies": {
     "@material/mwc-button": "^0.21.0"
   }
