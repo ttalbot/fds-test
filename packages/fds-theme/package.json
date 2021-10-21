@@ -1,9 +1,9 @@
 {
-  "name": "@finastra/theme",
+  "name": "@test/theme",
   "version": "1.0.0",
   "author": "Talbot, Thomas <thomas.talbot@finastra.com>",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "peerDependencies": {
     "@material/theme": "^11.0.0"
   }
