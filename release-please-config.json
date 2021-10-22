@@ -1,6 +1,6 @@
 {
   "plugins": ["node-workspace"],
-  "bootstrap-sha": "647df9986ab8fd7bfe2be29618f4dec711756721",
+  "bootstrap-sha": "165f343b292438c086b81ea5ef9eedaf917e05ba",
   "packages": {
     "packages/fds-button": {
       "release-type": "node",
